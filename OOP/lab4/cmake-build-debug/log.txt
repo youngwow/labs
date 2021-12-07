@@ -1,0 +1,100 @@
+Hero: 
+Health was: 100
+Damage was: 10
+Armor was: 0
+Hero now: 
+Player info: 
+Health: 200
+Damage: 10
+Armor: 0
+
+Hero: 
+Health was: 200
+Damage was: 10
+Armor was: 0
+Hero now: 
+Player info: 
+Health: 200
+Damage: 40
+Armor: 0
+
+Hero: 
+Health was: 200
+Damage was: 40
+Armor was: 0
+Hero now: 
+Player info: 
+Health: 190
+Damage: 40
+Armor: 0
+
+Hero: 
+Health was: 190
+Damage was: 40
+Armor was: 0
+Hero now: 
+Player info: 
+Health: 190
+Damage: 40
+Armor: 30
+
+Hero: 
+Health was: 190
+Damage was: 40
+Armor was: 30
+Hero now: 
+Player info: 
+Health: 190
+Damage: 40
+Armor: 20
+
+Hero: 
+Health was: 190
+Damage was: 40
+Armor was: 20
+Hero now: 
+Player info: 
+Health: 190
+Damage: 40
+Armor: 50
+
+Hero: 
+Health was: 190
+Damage was: 40
+Armor was: 50
+Hero now: 
+Player info: 
+Health: 190
+Damage: 40
+Armor: 45
+
+Hero: 
+Health was: 190
+Damage was: 40
+Armor was: 45
+Hero now: 
+Player info: 
+Health: 185
+Damage: 40
+Armor: 0
+
+Hero: 
+Health was: 185
+Damage was: 40
+Armor was: 0
+Hero now: 
+Player info: 
+Health: 135
+Damage: 40
+Armor: 0
+
+Hero: 
+Health was: 135
+Damage was: 40
+Armor was: 0
+Hero now: 
+Player info: 
+Health: 130
+Damage: 40
+Armor: 0
+
